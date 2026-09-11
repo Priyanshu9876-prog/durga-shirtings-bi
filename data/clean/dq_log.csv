@@ -1,0 +1,355 @@
+load_batch_id,table_name,record_ref,issue_type,description,resolved_flag
+BATCH_20260910_174153,dim_customer,C0002,duplicate,Duplicate customer name after standardization: Vardhman Traders,0
+BATCH_20260910_174153,dim_customer,C0047,duplicate,Duplicate customer name after standardization: Vardhman Enterprises,0
+BATCH_20260910_174153,dim_customer,C0040,duplicate,Duplicate customer name after standardization: Prime Fabrics,0
+BATCH_20260910_174153,fact_sales,S002912,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002334,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002884,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001198,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003225,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005170,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005820,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001565,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000369,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002421,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001747,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005200,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003528,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002944,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000518,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002137,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003612,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000719,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003078,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004851,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002556,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005022,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005243,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006508,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002867,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005117,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000187,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005361,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000220,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003660,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002928,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000235,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005981,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003848,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005275,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001838,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001551,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001605,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004283,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002386,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000859,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001754,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005568,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003679,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004689,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000421,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001300,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006524,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000306,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006560,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005795,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S007157,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002604,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004435,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002755,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001914,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006951,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003775,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000445,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003068,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001265,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004176,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S007075,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002177,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002096,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003337,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000075,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004448,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000201,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005958,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003309,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004625,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001684,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006004,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002722,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000574,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002046,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000864,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005241,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001516,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004070,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002853,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003464,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003207,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001074,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003596,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004526,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S007108,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S007113,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003269,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005100,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000875,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004178,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000325,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004155,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S007209,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001124,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000300,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004094,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006450,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005929,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000983,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000309,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006934,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003377,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001541,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004149,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001184,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002875,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002641,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001959,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000824,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002898,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002446,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001520,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001417,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S005037,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S000289,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S002462,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006551,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S006759,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003721,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S001411,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004938,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S004306,duplicate,Exact duplicate transaction row,0
+BATCH_20260910_174153,fact_sales,S003724,invalid_quantity,Non-positive quantity: -415,0
+BATCH_20260910_174153,fact_sales,S003626,invalid_quantity,Non-positive quantity: -458,0
+BATCH_20260910_174153,fact_sales,S005679,invalid_quantity,Non-positive quantity: -455,0
+BATCH_20260910_174153,fact_sales,S001797,invalid_quantity,Non-positive quantity: -252,0
+BATCH_20260910_174153,fact_sales,S002511,invalid_quantity,Non-positive quantity: -361,0
+BATCH_20260910_174153,fact_sales,S000501,invalid_quantity,Non-positive quantity: -218,0
+BATCH_20260910_174153,fact_sales,S001435,invalid_quantity,Non-positive quantity: -278,0
+BATCH_20260910_174153,fact_sales,S006286,invalid_quantity,Non-positive quantity: -375,0
+BATCH_20260910_174153,fact_sales,S003450,invalid_quantity,Non-positive quantity: -32,0
+BATCH_20260910_174153,fact_sales,S002615,invalid_quantity,Non-positive quantity: -305,0
+BATCH_20260910_174153,fact_sales,S000722,invalid_quantity,Non-positive quantity: -384,0
+BATCH_20260910_174153,fact_sales,S005979,invalid_quantity,Non-positive quantity: -432,0
+BATCH_20260910_174153,fact_sales,S006868,invalid_quantity,Non-positive quantity: -74,0
+BATCH_20260910_174153,fact_sales,S003266,invalid_quantity,Non-positive quantity: -84,0
+BATCH_20260910_174153,fact_sales,S001345,invalid_quantity,Non-positive quantity: -309,0
+BATCH_20260910_174153,fact_sales,S001105,invalid_quantity,Non-positive quantity: -186,0
+BATCH_20260910_174153,fact_sales,S001936,invalid_quantity,Non-positive quantity: -232,0
+BATCH_20260910_174153,fact_sales,S003629,invalid_quantity,Non-positive quantity: -393,0
+BATCH_20260910_174153,fact_sales,S003301,invalid_quantity,Non-positive quantity: -126,0
+BATCH_20260910_174153,fact_sales,S005405,invalid_quantity,Non-positive quantity: -475,0
+BATCH_20260910_174153,fact_sales,S006972,invalid_quantity,Non-positive quantity: -476,0
+BATCH_20260910_174153,fact_sales,S006061,invalid_quantity,Non-positive quantity: -215,0
+BATCH_20260910_174153,fact_sales,S000038,invalid_quantity,Non-positive quantity: -235,0
+BATCH_20260910_174153,fact_sales,S005058,invalid_quantity,Non-positive quantity: -176,0
+BATCH_20260910_174153,fact_sales,S004570,invalid_quantity,Non-positive quantity: -435,0
+BATCH_20260910_174153,fact_sales,S002938,invalid_quantity,Non-positive quantity: -212,0
+BATCH_20260910_174153,fact_sales,S004620,invalid_quantity,Non-positive quantity: -450,0
+BATCH_20260910_174153,fact_sales,S004883,invalid_quantity,Non-positive quantity: -388,0
+BATCH_20260910_174153,fact_sales,S003692,invalid_quantity,Non-positive quantity: -371,0
+BATCH_20260910_174153,fact_sales,S004596,invalid_quantity,Non-positive quantity: -108,0
+BATCH_20260910_174153,fact_sales,S006372,invalid_quantity,Non-positive quantity: -330,0
+BATCH_20260910_174153,fact_sales,S004105,invalid_quantity,Non-positive quantity: -66,0
+BATCH_20260910_174153,fact_sales,S005582,invalid_quantity,Non-positive quantity: -78,0
+BATCH_20260910_174153,fact_sales,S004628,invalid_quantity,Non-positive quantity: -181,0
+BATCH_20260910_174153,fact_sales,S000892,invalid_quantity,Non-positive quantity: -204,0
+BATCH_20260910_174153,fact_sales,S007067,invalid_quantity,Non-positive quantity: -459,0
+BATCH_20260910_174153,fact_sales,S002139,invalid_quantity,Non-positive quantity: -178,0
+BATCH_20260910_174153,fact_sales,S000728,invalid_quantity,Non-positive quantity: -500,0
+BATCH_20260910_174153,fact_sales,S000292,invalid_quantity,Non-positive quantity: -149,0
+BATCH_20260910_174153,fact_sales,S005179,invalid_quantity,Non-positive quantity: -354,0
+BATCH_20260910_174153,fact_sales,S004066,invalid_quantity,Non-positive quantity: -473,0
+BATCH_20260910_174153,fact_sales,S001854,invalid_quantity,Non-positive quantity: -175,0
+BATCH_20260910_174153,fact_sales,S005534,invalid_quantity,Non-positive quantity: -401,0
+BATCH_20260910_174153,fact_sales,S003545,invalid_quantity,Non-positive quantity: -251,0
+BATCH_20260910_174153,fact_sales,S001937,invalid_quantity,Non-positive quantity: -215,0
+BATCH_20260910_174153,fact_sales,S001337,invalid_quantity,Non-positive quantity: -164,0
+BATCH_20260910_174153,fact_sales,S004785,invalid_quantity,Non-positive quantity: -389,0
+BATCH_20260910_174153,fact_sales,S000129,invalid_quantity,Non-positive quantity: -485,0
+BATCH_20260910_174153,fact_sales,S000203,invalid_quantity,Non-positive quantity: -210,0
+BATCH_20260910_174153,fact_sales,S004452,invalid_quantity,Non-positive quantity: -313,0
+BATCH_20260910_174153,fact_sales,S002013,invalid_quantity,Non-positive quantity: -169,0
+BATCH_20260910_174153,fact_sales,S001752,invalid_quantity,Non-positive quantity: -429,0
+BATCH_20260910_174153,fact_sales,S001346,invalid_quantity,Non-positive quantity: -126,0
+BATCH_20260910_174153,fact_sales,S000473,invalid_quantity,Non-positive quantity: -308,0
+BATCH_20260910_174153,fact_sales,S006010,invalid_quantity,Non-positive quantity: -425,0
+BATCH_20260910_174153,fact_sales,S002518,invalid_quantity,Non-positive quantity: -213,0
+BATCH_20260910_174153,fact_sales,S006586,invalid_quantity,Non-positive quantity: -28,0
+BATCH_20260910_174153,fact_sales,S000089,invalid_quantity,Non-positive quantity: -241,0
+BATCH_20260910_174153,fact_sales,S005576,invalid_quantity,Non-positive quantity: -253,0
+BATCH_20260910_174153,fact_sales,S001564,invalid_quantity,Non-positive quantity: -274,0
+BATCH_20260910_174153,fact_sales,S006953,invalid_quantity,Non-positive quantity: -350,0
+BATCH_20260910_174153,fact_sales,S003359,invalid_quantity,Non-positive quantity: -402,0
+BATCH_20260910_174153,fact_sales,S001595,invalid_quantity,Non-positive quantity: -485,0
+BATCH_20260910_174153,fact_sales,S004639,invalid_quantity,Non-positive quantity: -157,0
+BATCH_20260910_174153,fact_sales,S002629,invalid_quantity,Non-positive quantity: -240,0
+BATCH_20260910_174153,fact_sales,S003906,invalid_quantity,Non-positive quantity: -133,0
+BATCH_20260910_174153,fact_sales,S001401,invalid_quantity,Non-positive quantity: -175,0
+BATCH_20260910_174153,fact_sales,S003268,invalid_quantity,Non-positive quantity: -164,0
+BATCH_20260910_174153,fact_sales,S001231,invalid_quantity,Non-positive quantity: -402,0
+BATCH_20260910_174153,fact_sales,S001670,invalid_quantity,Non-positive quantity: -358,0
+BATCH_20260910_174153,fact_sales,S006419,invalid_quantity,Non-positive quantity: -254,0
+BATCH_20260910_174153,fact_sales,S006664,invalid_quantity,Non-positive quantity: -351,0
+BATCH_20260910_174153,fact_sales,S003196,invalid_quantity,Non-positive quantity: -74,0
+BATCH_20260910_174153,fact_sales,S001177,invalid_quantity,Non-positive quantity: -100,0
+BATCH_20260910_174153,fact_sales,S004753,invalid_price,Non-positive unit price: -137.14,0
+BATCH_20260910_174153,fact_sales,S004549,invalid_price,Non-positive unit price: -304.63,0
+BATCH_20260910_174153,fact_sales,S002758,invalid_price,Non-positive unit price: -294.08,0
+BATCH_20260910_174153,fact_sales,S004540,invalid_price,Non-positive unit price: -262.33,0
+BATCH_20260910_174153,fact_sales,S001715,invalid_price,Non-positive unit price: -326.64,0
+BATCH_20260910_174153,fact_sales,S005471,invalid_price,Non-positive unit price: -223.54,0
+BATCH_20260910_174153,fact_sales,S000159,invalid_price,Non-positive unit price: -92.35,0
+BATCH_20260910_174153,fact_sales,S006599,invalid_price,Non-positive unit price: -194.24,0
+BATCH_20260910_174153,fact_sales,S005394,invalid_price,Non-positive unit price: -279.32,0
+BATCH_20260910_174153,fact_sales,S005771,invalid_price,Non-positive unit price: -169.9,0
+BATCH_20260910_174153,fact_sales,S001330,invalid_price,Non-positive unit price: -105.33,0
+BATCH_20260910_174153,fact_sales,S001931,invalid_price,Non-positive unit price: -306.19,0
+BATCH_20260910_174153,fact_sales,S006329,invalid_price,Non-positive unit price: -253.53,0
+BATCH_20260910_174153,fact_sales,S000808,invalid_price,Non-positive unit price: -303.41,0
+BATCH_20260910_174153,fact_sales,S006721,invalid_price,Non-positive unit price: -259.18,0
+BATCH_20260910_174153,fact_sales,S004109,invalid_price,Non-positive unit price: -113.21,0
+BATCH_20260910_174153,fact_sales,S005427,invalid_price,Non-positive unit price: -87.07,0
+BATCH_20260910_174153,fact_sales,S002837,invalid_price,Non-positive unit price: -110.39,0
+BATCH_20260910_174153,fact_sales,S003243,invalid_price,Non-positive unit price: -261.28,0
+BATCH_20260910_174153,fact_sales,S003746,invalid_price,Non-positive unit price: -81.46,0
+BATCH_20260910_174153,fact_sales,S005802,invalid_price,Non-positive unit price: -92.87,0
+BATCH_20260910_174153,fact_sales,S004324,invalid_price,Non-positive unit price: -149.22,0
+BATCH_20260910_174153,fact_sales,S002993,invalid_price,Non-positive unit price: -156.65,0
+BATCH_20260910_174153,fact_sales,S005359,invalid_price,Non-positive unit price: -259.66,0
+BATCH_20260910_174153,fact_sales,S005104,invalid_price,Non-positive unit price: -132.61,0
+BATCH_20260910_174153,fact_sales,S002784,invalid_price,Non-positive unit price: -140.03,0
+BATCH_20260910_174153,fact_sales,S001153,invalid_price,Non-positive unit price: -137.85,0
+BATCH_20260910_174153,fact_sales,S006837,invalid_price,Non-positive unit price: -90.86,0
+BATCH_20260910_174153,fact_sales,S003931,invalid_price,Non-positive unit price: -237.29,0
+BATCH_20260910_174153,fact_sales,S003211,invalid_price,Non-positive unit price: -242.37,0
+BATCH_20260910_174153,fact_sales,S004310,invalid_price,Non-positive unit price: -246.76,0
+BATCH_20260910_174153,fact_sales,S006762,invalid_price,Non-positive unit price: -128.01,0
+BATCH_20260910_174153,fact_sales,S004450,invalid_price,Non-positive unit price: -275.87,0
+BATCH_20260910_174153,fact_sales,S000254,invalid_price,Non-positive unit price: -156.57,0
+BATCH_20260910_174153,fact_sales,S001459,invalid_price,Non-positive unit price: -144.07,0
+BATCH_20260910_174153,fact_sales,S007131,invalid_price,Non-positive unit price: -278.43,0
+BATCH_20260910_174153,fact_sales,S002652,invalid_price,Non-positive unit price: -147.41,0
+BATCH_20260910_174153,fact_sales,S005495,invalid_price,Non-positive unit price: -162.81,0
+BATCH_20260910_174153,fact_sales,S005491,invalid_price,Non-positive unit price: -152.81,0
+BATCH_20260910_174153,fact_sales,S003396,invalid_price,Non-positive unit price: -196.35,0
+BATCH_20260910_174153,fact_sales,S002341,invalid_price,Non-positive unit price: -202.45,0
+BATCH_20260910_174153,fact_sales,S005451,invalid_price,Non-positive unit price: -188.89,0
+BATCH_20260910_174153,fact_sales,S003896,invalid_price,Non-positive unit price: -88.59,0
+BATCH_20260910_174153,fact_sales,S004350,invalid_price,Non-positive unit price: -165.97,0
+BATCH_20260910_174153,fact_sales,S005621,invalid_price,Non-positive unit price: -166.06,0
+BATCH_20260910_174153,fact_sales,S005588,invalid_price,Non-positive unit price: -147.04,0
+BATCH_20260910_174153,fact_sales,S004932,invalid_price,Non-positive unit price: -120.84,0
+BATCH_20260910_174153,fact_sales,S001889,invalid_price,Non-positive unit price: -85.73,0
+BATCH_20260910_174153,fact_sales,S005615,invalid_price,Non-positive unit price: -135.76,0
+BATCH_20260910_174153,fact_sales,S004164,invalid_price,Non-positive unit price: -222.28,0
+BATCH_20260910_174153,fact_sales,S004708,invalid_price,Non-positive unit price: -187.91,0
+BATCH_20260910_174153,fact_sales,S005998,invalid_price,Non-positive unit price: -100.92,0
+BATCH_20260910_174153,fact_sales,S001801,invalid_price,Non-positive unit price: -191.21,0
+BATCH_20260910_174153,fact_sales,S001693,invalid_price,Non-positive unit price: -270.29,0
+BATCH_20260910_174153,fact_sales,S001625,invalid_price,Non-positive unit price: -223.41,0
+BATCH_20260910_174153,fact_sales,S004174,invalid_price,Non-positive unit price: -216.0,0
+BATCH_20260910_174153,fact_sales,S001868,invalid_price,Non-positive unit price: -179.54,0
+BATCH_20260910_174153,fact_sales,S002561,invalid_price,Non-positive unit price: -172.38,0
+BATCH_20260910_174153,fact_sales,S004281,invalid_price,Non-positive unit price: -227.24,0
+BATCH_20260910_174153,fact_sales,S003284,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000222,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002306,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001708,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003805,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000707,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003708,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S006786,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002517,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S006278,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004054,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002422,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000948,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003187,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002254,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004693,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004069,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002453,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000370,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003092,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000982,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003936,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000230,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000645,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003979,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003774,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S007137,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003866,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000820,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004393,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001095,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004544,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004135,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004788,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005356,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002273,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004243,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001899,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S006637,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001785,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S006203,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000655,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005005,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002619,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002189,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005131,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001319,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003983,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S007171,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004132,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003732,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004120,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001232,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002019,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005921,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001031,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S000257,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003221,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003586,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001945,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004667,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002000,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002041,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S002612,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005991,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S003780,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S007168,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001994,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005953,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S001841,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S005140,missing_value,product_id is null,0
+BATCH_20260910_174153,fact_sales,S004958,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S005499,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S003358,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S005404,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S003636,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S005778,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S001243,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S003926,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S000962,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S001720,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S006389,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S002962,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S005545,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S000638,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S004006,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S004368,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S006440,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S006415,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S007096,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S004879,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S006072,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0
+BATCH_20260910_174153,fact_sales,S004268,invalid_date,Date out of expected business range: 2026-11-30 00:00:00,0

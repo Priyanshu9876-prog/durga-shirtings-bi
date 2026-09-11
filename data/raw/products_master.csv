@@ -1,0 +1,85 @@
+product_id,product_name,fabric_type,category,uom,cost_price,standard_price
+P0001,Cotton Shirting #1,Cotton,Shirting,meters,119.93,189.82
+P0002,Cotton Shirting #2,Cotton,Shirting,meters,177.12,258.51
+P0003,Cotton Shirting #3,Cotton,Shirting,meters,84.96,110.84
+P0004,Cotton Suiting #1,Cotton,Suiting,meters,69.29,107.62
+P0005,Cotton Suiting #2,Cotton,Suiting,meters,156.18,233.93
+P0006,Cotton Suiting #3,Cotton,Suiting,meters,63.29,100.6
+P0007,Cotton Furnishing #1,Cotton,Furnishing,meters,193.19,255.85
+P0008,Cotton Furnishing #2,Cotton,Furnishing,meters,89.09,117.08
+P0009,Cotton Furnishing #3,Cotton,Furnishing,meters,108.68,155.81
+P0010,Cotton Dress Material #1,Cotton,Dress Material,meters,129.11,174.55
+P0011,Cotton Dress Material #2,Cotton,Dress Material,meters,157.9,205.08
+P0012,Cotton Dress Material #3,Cotton,Dress Material,meters,106.74,147.11
+P0013,Poly-Cotton Shirting #1,Poly-Cotton,Shirting,meters,132.97,202.75
+P0014,Poly-Cotton Shirting #2,Poly-Cotton,Shirting,meters,91.95,131.49
+P0015,Poly-Cotton Shirting #3,Poly-Cotton,Shirting,meters,154.79,196.0
+P0016,Poly-Cotton Suiting #1,Poly-Cotton,Suiting,meters,157.21,205.9
+P0017,Poly-Cotton Suiting #2,Poly-Cotton,Suiting,meters,70.41,111.4
+P0018,Poly-Cotton Suiting #3,Poly-Cotton,Suiting,meters,214.5,328.82
+P0019,Poly-Cotton Furnishing #1,Poly-Cotton,Furnishing,meters,108.74,139.64
+P0020,Poly-Cotton Furnishing #2,Poly-Cotton,Furnishing,meters,169.48,237.96
+P0021,Poly-Cotton Furnishing #3,Poly-Cotton,Furnishing,meters,79.53,113.2
+P0022,Poly-Cotton Dress Material #1,Poly-Cotton,Dress Material,meters,65.5,102.72
+P0023,Poly-Cotton Dress Material #2,Poly-Cotton,Dress Material,meters,101.4,150.26
+P0024,Poly-Cotton Dress Material #3,Poly-Cotton,Dress Material,meters,109.87,157.34
+P0025,Linen Shirting #1,Linen,Shirting,meters,147.47,193.88
+P0026,Linen Shirting #2,Linen,Shirting,meters,215.13,327.28
+P0027,Linen Shirting #3,Linen,Shirting,meters,210.32,328.77
+P0028,Linen Suiting #1,Linen,Suiting,meters,155.66,244.8
+P0029,Linen Suiting #2,Linen,Suiting,meters,74.16,97.79
+P0030,Linen Suiting #3,Linen,Suiting,meters,67.24,91.71
+P0031,Linen Furnishing #1,Linen,Furnishing,meters,122.19,164.34
+P0032,Linen Furnishing #2,Linen,Furnishing,meters,192.6,264.8
+P0033,Linen Furnishing #3,Linen,Furnishing,meters,104.95,151.12
+P0034,Linen Dress Material #1,Linen,Dress Material,meters,82.55,126.36
+P0035,Linen Dress Material #2,Linen,Dress Material,meters,71.93,114.76
+P0036,Linen Dress Material #3,Linen,Dress Material,meters,183.56,242.22
+P0037,Rayon Shirting #1,Rayon,Shirting,meters,60.88,93.48
+P0038,Rayon Shirting #2,Rayon,Shirting,meters,173.1,260.54
+P0039,Rayon Shirting #3,Rayon,Shirting,meters,183.4,234.0
+P0040,Rayon Suiting #1,Rayon,Suiting,meters,117.35,151.45
+P0041,Rayon Suiting #2,Rayon,Suiting,meters,198.1,290.84
+P0042,Rayon Suiting #3,Rayon,Suiting,meters,112.94,143.69
+P0043,Rayon Furnishing #1,Rayon,Furnishing,meters,109.76,149.69
+P0044,Rayon Furnishing #2,Rayon,Furnishing,meters,176.74,260.36
+P0045,Rayon Furnishing #3,Rayon,Furnishing,meters,201.95,285.81
+P0046,Rayon Dress Material #1,Rayon,Dress Material,meters,79.14,118.68
+P0047,Rayon Dress Material #2,Rayon,Dress Material,meters,181.73,262.86
+P0048,Rayon Dress Material #3,Rayon,Dress Material,meters,183.35,260.88
+P0049,Viscose Shirting #1,Viscose,Shirting,meters,143.64,201.04
+P0050,Viscose Shirting #2,Viscose,Shirting,meters,64.07,82.51
+P0051,Viscose Shirting #3,Viscose,Shirting,meters,65.03,95.77
+P0052,Viscose Suiting #1,Viscose,Suiting,meters,110.3,157.51
+P0053,Viscose Suiting #2,Viscose,Suiting,meters,205.21,274.42
+P0054,Viscose Suiting #3,Viscose,Suiting,meters,125.66,190.3
+P0055,Viscose Furnishing #1,Viscose,Furnishing,meters,96.61,123.37
+P0056,Viscose Furnishing #2,Viscose,Furnishing,meters,106.36,138.95
+P0057,Viscose Furnishing #3,Viscose,Furnishing,meters,208.75,319.98
+P0058,Viscose Dress Material #1,Viscose,Dress Material,meters,161.34,250.89
+P0059,Viscose Dress Material #2,Viscose,Dress Material,meters,188.59,248.05
+P0060,Viscose Dress Material #3,Viscose,Dress Material,meters,202.81,291.8
+P0061,Cotton-Lycra Shirting #1,Cotton-Lycra,Shirting,meters,189.19,295.82
+P0062,Cotton-Lycra Shirting #2,Cotton-Lycra,Shirting,meters,110.88,142.87
+P0063,Cotton-Lycra Shirting #3,Cotton-Lycra,Shirting,meters,96.47,135.01
+P0064,Cotton-Lycra Suiting #1,Cotton-Lycra,Suiting,meters,190.88,296.1
+P0065,Cotton-Lycra Suiting #2,Cotton-Lycra,Suiting,meters,61.11,87.31
+P0066,Cotton-Lycra Suiting #3,Cotton-Lycra,Suiting,meters,126.79,168.34
+P0067,Cotton-Lycra Furnishing #1,Cotton-Lycra,Furnishing,meters,79.18,108.33
+P0068,Cotton-Lycra Furnishing #2,Cotton-Lycra,Furnishing,meters,210.87,287.44
+P0069,Cotton-Lycra Furnishing #3,Cotton-Lycra,Furnishing,meters,143.01,213.95
+P0070,Cotton-Lycra Dress Material #1,Cotton-Lycra,Dress Material,meters,118.18,187.92
+P0071,Cotton-Lycra Dress Material #2,Cotton-Lycra,Dress Material,meters,213.99,286.35
+P0072,Cotton-Lycra Dress Material #3,Cotton-Lycra,Dress Material,meters,139.56,189.15
+P0073,Polyester Shirting #1,Polyester,Shirting,meters,105.57,133.33
+P0074,Polyester Shirting #2,Polyester,Shirting,meters,157.53,224.63
+P0075,Polyester Shirting #3,Polyester,Shirting,meters,68.24,91.96
+P0076,Polyester Suiting #1,Polyester,Suiting,meters,205.32,273.87
+P0077,Polyester Suiting #2,Polyester,Suiting,meters,83.18,118.22
+P0078,Polyester Suiting #3,Polyester,Suiting,meters,217.7,290.57
+P0079,Polyester Furnishing #1,Polyester,Furnishing,meters,167.54,254.09
+P0080,Polyester Furnishing #2,Polyester,Furnishing,meters,98.02,147.51
+P0081,Polyester Furnishing #3,Polyester,Furnishing,meters,118.85,174.86
+P0082,Polyester Dress Material #1,Polyester,Dress Material,meters,161.36,231.96
+P0083,Polyester Dress Material #2,Polyester,Dress Material,meters,74.45,114.83
+P0084,Polyester Dress Material #3,Polyester,Dress Material,meters,111.32,146.42

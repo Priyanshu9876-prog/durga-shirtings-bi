@@ -1,0 +1,64 @@
+customer_id,customer_name,segment,city,state,customer_since
+C0001,Prime Textiles,Wholesale,Mumbai,Maharashtra,2022-07-18
+C0002,Vardhman Traders,Export,Surat,Gujarat,2024-10-17
+C0003,Metro Enterprises,Retail,Surat,Gujarat,2024-04-24
+C0004,Shree Textiles,Wholesale,Surat,Gujarat,2022-03-24
+C0005,National Enterprises,Wholesale,Mumbai,Maharashtra,2024-02-24
+C0006,Sun Impex,Retail,Kolkata,West Bengal,2022-03-28
+C0007,Royal Fabrics,Export,Mumbai,Maharashtra,2021-11-23
+C0008,New India Fabrics,Wholesale,Ludhiana,Punjab,2021-11-15
+C0009,Star Fabrics,Retail,Surat,Gujarat,2021-07-09
+C0010,Om Fabrics,Retail,Ahmedabad,Gujarat,2024-05-21
+C0011,Star Textiles,Wholesale,Jaipur,Rajasthan,2024-01-04
+C0012,Metro Garments,Retail,Surat,Gujarat,2024-02-05
+C0013,City Impex,Wholesale,Ahmedabad,Gujarat,2024-03-28
+C0014,Sun Textiles,Wholesale,Mumbai,Maharashtra,2024-09-16
+C0015,Om Mills,Retail,Bengaluru,Karnataka,2021-07-26
+C0016,Ganesh Garments,Retail,Ahmedabad,Gujarat,2021-11-30
+C0017,Balaji Traders,Export,Ludhiana,Punjab,2024-10-31
+C0018,Om Enterprises,Export,Delhi,Delhi,2023-12-30
+C0019,United Garments,Export,Ludhiana,Punjab,2024-08-03
+C0020,National Traders,Wholesale,Ahmedabad,Gujarat,2021-04-25
+C0021,City Textiles,Retail,Ahmedabad,Gujarat,2023-04-02
+C0022,Om Traders,Export,Ahmedabad,Gujarat,2022-03-12
+C0023,Metro Impex,Retail,Jaipur,Rajasthan,2021-10-20
+C0024,Krishna Traders,Retail,Ludhiana,Punjab,2024-04-12
+C0025,National Garments,Wholesale,Surat,Gujarat,2021-04-07
+C0026,Krishna Impex,Retail,Delhi,Delhi,2024-10-25
+C0027,Royal Textiles,Export,Kolkata,West Bengal,2023-02-21
+C0028,United Enterprises,Wholesale,Ludhiana,Punjab,2024-02-08
+C0029,Prime Impex,Export,Surat,Gujarat,2024-10-28
+C0030,Star Impex,Retail,Ahmedabad,Gujarat,2021-08-17
+C0031,New India Traders,Export,Jaipur,Rajasthan,2021-01-07
+C0032,Ganesh Enterprises,Wholesale,Delhi,Delhi,2023-11-06
+C0033,Ganesh Mills,Retail,Bengaluru,Karnataka,2021-11-10
+C0034,Star Traders,Retail,Mumbai,Maharashtra,2024-05-11
+C0035,United Textiles,Retail,Surat,Gujarat,2023-01-14
+C0036,Vardhman Textiles,Wholesale,Bengaluru,Karnataka,2024-03-07
+C0037,Om Impex,Export,Jaipur,Rajasthan,2021-05-22
+C0038,Krishna Fabrics,Export,Kolkata,West Bengal,2022-03-10
+C0039,Sun Traders,Export,Ludhiana,Punjab,2023-03-29
+C0040,Prime Fabrics,Retail,Jaipur,Rajasthan,2023-11-26
+C0041,Balaji Textiles,Wholesale,Bengaluru,Karnataka,2024-04-20
+C0042,Shree Traders,Retail,Surat,Gujarat,2021-03-06
+C0043,Vardhman Fabrics,Export,Jaipur,Rajasthan,2022-03-15
+C0044,Royal Garments,Retail,Bengaluru,Karnataka,2023-08-27
+C0045,New India Garments,Export,Jaipur,Rajasthan,2021-04-21
+C0046,Om Textiles,Wholesale,Kolkata,West Bengal,2022-11-26
+C0047,Vardhman Enterprises,Retail,Jaipur,Rajasthan,2021-10-15
+C0048,United Traders,Export,Surat,Gujarat,2023-06-27
+C0049,Prime Enterprises,Wholesale,Mumbai,Maharashtra,2021-07-11
+C0050,Krishna Garments,Wholesale,Jaipur,Rajasthan,2023-09-13
+C0051,City Garments,Retail,Mumbai,Maharashtra,2021-12-04
+C0052,Shree Garments,Retail,Ludhiana,Punjab,2023-07-21
+C0053,New India Impex,Wholesale,Jaipur,Rajasthan,2021-11-14
+C0054,Ganesh Traders,Export,Mumbai,Maharashtra,2024-04-01
+C0055,National Textiles,Wholesale,Ahmedabad,Gujarat,2021-04-28
+C0056,National Mills,Export,Delhi,Delhi,2021-04-27
+C0057,Krishna Textiles,Wholesale,Surat,Gujarat,2024-10-14
+C0058,New India Textiles,Export,Bengaluru,Karnataka,2024-03-31
+C0059,Shree Enterprises,Export,Surat,Gujarat,2023-05-09
+C0060,Royal Enterprises,Wholesale,Ahmedabad,Gujarat,2022-06-19
+C0002,VARDHMAN TRADERS,Export,Surat,Gujarat,2024-10-17
+C0047,VARDHMAN ENTERPRISES,Retail,Jaipur,Rajasthan,2021-10-15
+C0040,PRIME FABRICS,Retail,Jaipur,Rajasthan,2023-11-26
