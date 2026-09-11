@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Keep the SQLite DB and clean CSVs out of git if you swap in real company
+# data later — uncomment the lines below once you replace the sample data
+# with real exports, so real financials never get committed.
+# data/clean/*.db
+# data/clean/*.csv
+# data/raw/*.csv
