@@ -1,5 +1,9 @@
 # Tableau Dashboard Design
 
+> Implementation template: use
+> `tableau/tableau_public_workbook_spec.md` for exact worksheet names, field
+> placements, calculated fields, and dashboard layout assembly in Tableau Public.
+
 **Data source:** run `python etl/prepare_tableau_assets.py` first, then either:
 - connect Tableau to SQLite `data/clean/durga_shirtings.db`, or
 - connect to CSV extracts in `data/clean/tableau_extracts/` (recommended for
