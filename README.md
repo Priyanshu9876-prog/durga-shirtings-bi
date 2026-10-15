@@ -116,6 +116,12 @@ Use either approach:
 The dashboard-by-dashboard file mapping and required fields are documented in
 `docs/tableau_dashboard_design.md`.
 
+For step-by-step Tableau Public (macOS) setup and a complete worksheet/dashboard
+build template, see:
+
+- `docs/tableau_public_macos_setup.md`
+- `tableau/tableau_public_workbook_spec.md`
+
 ## What each layer demonstrates
 
 | Layer | Skills shown |
@@ -139,6 +145,8 @@ the same.
 - [`docs/kpi_definitions.md`](docs/kpi_definitions.md) — exact formula for every KPI
 - [`docs/business_questions_and_insights.md`](docs/business_questions_and_insights.md) — the "why" behind each dashboard
 - [`docs/tableau_dashboard_design.md`](docs/tableau_dashboard_design.md) — dashboard-by-dashboard design rationale
+- [`docs/tableau_public_macos_setup.md`](docs/tableau_public_macos_setup.md) — exact Tableau Public setup/build steps on macOS
+- [`tableau/tableau_public_workbook_spec.md`](tableau/tableau_public_workbook_spec.md) — workbook template/specification for all 4 dashboards
 
 ## Tech stack
 
