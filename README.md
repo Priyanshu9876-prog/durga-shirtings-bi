@@ -83,6 +83,39 @@ python forecast.py                  # writes data/clean/forecast_output.csv
 # already does this on first run) and point Tableau at data/clean/durga_shirtings.db
 ```
 
+## Generate Tableau-ready extracts (recommended)
+
+From the repository root:
+
+```bash
+pip install -r requirements.txt
+python etl/prepare_tableau_assets.py
+```
+
+This command creates/refreshes assets in:
+
+- `data/clean/durga_shirtings.db` (if missing)
+- `data/clean/forecast_output.csv` (if missing or ETL was refreshed)
+- `data/clean/tableau_extracts/*.csv` (dashboard-ready extracts)
+
+Useful flags:
+
+```bash
+python etl/prepare_tableau_assets.py --force-etl --force-forecast
+```
+
+### Connect Tableau
+
+Use either approach:
+
+1. **CSV extracts (no SQLite connector needed):** connect Tableau to files in
+   `data/clean/tableau_extracts/`.
+2. **SQLite live source:** connect Tableau to
+   `data/clean/durga_shirtings.db` and use the analytical views.
+
+The dashboard-by-dashboard file mapping and required fields are documented in
+`docs/tableau_dashboard_design.md`.
+
 ## What each layer demonstrates
 
 | Layer | Skills shown |
